@@ -1,0 +1,5 @@
+This is the first line of text.
+Python is a versatile programming language.
+It is used for web development,
+data analysis, and artificial intelligence.
+Learning Python can be quite rewarding.
